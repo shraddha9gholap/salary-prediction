@@ -4,9 +4,9 @@ In this project we are going to predict the salary of empolyee using machine lea
 This model predicts the salary of the employee based on the year of experience of employee.
 This is a regression problem which is solved using a **LinearRegression.**
 
-#steps used in this project for implementing this model in this project .
+steps used in this project for implementing this model in this project .
 
-Import all required libraries 
+**Import all required libraries **
 load data 
 perform EDA 
 visualize data 
@@ -17,9 +17,9 @@ test model
 check accuracy
 save the model 
 
-#I used the LinearRegression model which gives me a 97% accuracy on the testing data.
+I used the LinearRegression model which gives me a 97% accuracy on the testing data.
 
-#required libraries :
+**required libraries :**
 1. Pandas 
 2. Numpy
 3. matplotlib 
