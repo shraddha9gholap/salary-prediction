@@ -6,16 +6,16 @@ This is a regression problem which is solved using a **LinearRegression.**
 
 steps used in this project for implementing this model in this project .
 
-**Import all required libraries **
-load data 
-perform EDA 
-visualize data 
-prepare data 
-split data into training and testing  
-define model 
-test model 
-check accuracy
-save the model 
+1.Import all required libraries 
+2.load data 
+3.perform EDA 
+4.visualize data 
+5.prepare data 
+6.split data into training and testing  
+7.define model 
+8.test model 
+9.check accuracy
+10.save the model 
 
 I used the LinearRegression model which gives me a 97% accuracy on the testing data.
 
